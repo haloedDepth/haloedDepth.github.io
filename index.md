@@ -16,7 +16,7 @@ In my career, I've always sought roles that challenged and allowed me to grow. M
 
 Beyond administrative skills, my passion for technology has been a driving force. I have always found ways to incorporate programming into my professional life, focusing on creating more efficient, automated processes. This blend of administration and innovative tech solutions has defined my professional identity and set the stage for my future endeavors.
 
-### The Huda Community and Showcasing Expertise
+### Decentralised Open-Source Community and Showcasing Expertise
 
 Recognizing the importance of a strong technical portfolio, I founded the Huda Community. This open-source initiative serves as a platform to demonstrate my skills in data analysis and software development, crucial areas in today's tech-driven world. Through this community, I aim to connect with like-minded individuals, collaborate on projects, and showcase my capabilities to potential employers in Saudi Arabia.
 
