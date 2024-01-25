@@ -127,7 +127,9 @@ navigation_header:
   url: /blog/
 - title: Search
   url: /search/
-
+navigation_footer:
+- title: Created by Damjan Babic
+  url: https://darn.es
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter: https://twitter.com/haloedDepth
