@@ -137,7 +137,7 @@ social_links: # Appears in sidebar. Set the urls then uncomment and comment out 
   GitHub: https://github.com/haloeddepth
   Facebook: https://www.facebook.com/profile.php?id=61552398160680
   Instagram: https://www.instagram.com/haloeddepth/
-  Tiktok: https://www.tiktok.com/@user6607781993421
+  Youtube: https://www.youtube.com/@haloedDepth
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
   Twitter: "#0d94e7"
