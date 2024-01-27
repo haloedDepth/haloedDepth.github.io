@@ -38,6 +38,6 @@ feature_image: "https://picsum.photos/2560/600?image=872"
 ### Twitter
 
 -   **Content:** Huda Community Promotion Posts.
--   **Posting Frequency:** Regular updates.
+-   **Posting Frequency:** Daily.
 
 **General Strategy:** Always have at least 3 days of content planned and prepared in advance to maintain consistency.
