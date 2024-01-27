@@ -7,8 +7,8 @@ feature_image: "https://i.postimg.cc/BvKjYmbs/banner.webp"
 
 ### Website
 
--   **Content:** Systems Posts, Weekly Recaps and Video Scripts.
--   **Posting Frequency:** As developed for Systems Posts, Weekly for Recaps and Accordingly for Videos.
+-   **Content:** Systems Posts, Weekly Recaps, Video Scripts, To-Do Lists.
+-   **Posting Frequency:** As developed for Systems Posts, Weekly for Recaps, Accordingly for Videos and Daily for To-Do Lists.
 
 ### LinkedIn
 
