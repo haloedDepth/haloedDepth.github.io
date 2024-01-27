@@ -22,7 +22,7 @@ Recognizing the importance of a strong technical portfolio, I founded the Huda C
 
 ### A Dual Approach: Freelancing and Social Media
 
-Understanding the need for a sustainable income during this transition, I have ventured into freelance marketing. This role not only provides financial stability but also allows me to refine and expand my marketing skills, an essential tool in today’s digital landscape. Concurrently, I am committed to maintaining an active presence on social media. By sharing my journey, experiences, and insights, I aim to build a narrative that resonates with others and amplifies my professional visibility.
+Understanding the need for a sustainable income during this transition, I will venture into freelance marketing. This role not only provides financial stability but also allows me to refine and expand my marketing skills, an essential tool in today’s digital landscape. Concurrently, I am committed to maintaining an active presence on social media. By sharing my journey, experiences, and insights, I aim to build a narrative that resonates with others and amplifies my professional visibility.
 
 ### Embracing the Language and Culture
 
