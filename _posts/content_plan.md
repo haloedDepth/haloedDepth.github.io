@@ -2,7 +2,7 @@
 title: Content Plan
 categories:
 - System
-feature_image: "https://picsum.photos/2560/600?image=872"
+feature_image: "https://i.postimg.cc/BvKjYmbs/banner.webp"
 ---
 
 ### Website
