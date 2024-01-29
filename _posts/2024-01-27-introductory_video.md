@@ -38,6 +38,6 @@ feature_image: "https://i.postimg.cc/wxDmdXJF/intro-video.webp"
 -   **Huda Community Systems:** Mention systems in place for community building.
 -   **Video Creation System:** Explain the system for creating videos.
 
-**5. Researching Feasibility**
+**5. To-Do List for Tomorrow**
 
--   **Learning from Others:** Research and read about others' experiences in similar journeys.
+-   [To-Do 1](https://haloeddepth.github.io/to-do/2024/01/28/to_do1/)
