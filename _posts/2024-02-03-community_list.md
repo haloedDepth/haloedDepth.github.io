@@ -1,3 +1,10 @@
+---
+title: Community List
+categories:
+- List
+feature_image: "https://i.postimg.cc/VNWSMDNN/todo.webp"
+---
+
 # LinkedIn
 
 ### Business and Jobs in the Middle East
@@ -12,13 +19,13 @@
 
 -   [Business Analyst Professional - BA, Analysis, Data Analyst, Data Scientist](https://www.linkedin.com/groups/60878/) - 811k members
 -   [Artificial Intelligence, Machine Learning, Data Science & Robotics](https://www.linkedin.com/groups/3990648/) - 2.6M members
--   [IT Professionals 🟥 Agile Lean Scrum | DevOps | Cloud | SaaS | Security | Big Data | GenAI | ChatGPT](https://www.linkedin.com/groups/3732032/) - 870k members
+-   [IT Professionals Agile Lean Scrum  DevOps  Cloud  SaaS  Security Big Data GenAI  ChatGPT](https://www.linkedin.com/groups/3732032/) - 870k members
 -   [Cloud Computing, SaaS, Data Centre & Virtualization](https://www.linkedin.com/groups/45151/) - 960k members
 -   [Data Science Central](https://www.linkedin.com/groups/35222/) - 580k members
 -   [AI & ML Engineer, Data Scientist, Data Analyst, Data Engineer, Business Analyst, Python Developer](https://www.linkedin.com/groups/7039829/) - 310k members
 -   [IoT, Internet of Things, M2M, Smart Cities, Connected Home, Edge Computing, IIOT and Big Data](https://www.linkedin.com/groups/8356116/) - 230k members
 -   [Data Warehouse - Big Data - Business Intelligence - Cloud - Data Science - ETL](https://www.linkedin.com/groups/1824590/) - 135k members
--   [Big Data 🟥 Data Science | Machine Learning | Deep Learning | Artificial Intelligence](https://www.linkedin.com/groups/762547/) - 265k members
+-   [Big Data 🟥 Data Science  Machine Learning  Deep Learning  Artificial Intelligence](https://www.linkedin.com/groups/762547/) - 265k members
 -   [Analytics / Data Science / AI Career](https://www.linkedin.com/groups/6744146/) - 315k members
 -   [Technology Leadership 🟥 IT, Artificial Intelligence AI, Big Data, Cybersecurity, Web3, Metaverse 5g](https://www.linkedin.com/groups/3732005/) - 175k members
 -   [Data Mining, Statistics, Big Data, Data Visualization, AI, Machine Learning, and Data Science](https://www.linkedin.com/groups/152247/) - 300k members
@@ -28,7 +35,7 @@
 -   [Developers, Engineers & Techies: Solidity, Rust, C++, C#, Python, Java, Javascript | Blockchain](https://www.linkedin.com/groups/2066905/) - 600k members
 -   [Analytics and Artificial Intelligence (AI) in Marketing and Retail](https://www.linkedin.com/groups/4371519/) - 330k members
 -   [Artificial Intelligence Investors Group: Robotics, Machine Learning, NLP, Computer Vision & IoT](https://www.linkedin.com/groups/4376214/) - 275k members
--   [Artificial Intelligence | Deep Learning | Machine Learning](https://www.linkedin.com/groups/45655/) - 180k members
+-   [Artificial Intelligence  Deep Learning  Machine Learning](https://www.linkedin.com/groups/45655/) - 180k members
 -   [MARKETING: Artificial Intelligence Innovators, AI, ChatGPT, Bard, Bing, Copilot by SolutionPeople](https://www.linkedin.com/groups/54066/) - 1M members
 -   [Information Technology: Developer, Engineer, Analyst, Technician, Scientist | Blockchain | Metaverse](https://www.linkedin.com/groups/2154029/) - 520k members
 -   [Software Development - Open Source, Linux, Cloud, AI/ML/DL](https://www.linkedin.com/groups/65688/) - 100k members
@@ -92,6 +99,5 @@
 ### Miscellaneous
 
 -   [Programming Coding](https://www.facebook.com/groups/340398917711992/) - 1.2M members
-                [Social Media Marketing & Advertising Tips and Tricks for Online Job](https://www.facebook.com/groups/677369376241448/)
-                82k member
- -  [Data Analysts Hub](https://www.facebook.com/groups/709755213803294/) - 10k members
+-   [Social Media Marketing & Advertising Tips and Tricks for Online Job](https://www.facebook.com/groups/677369376241448/) - 82k members
+-  [Data Analysts Hub](https://www.facebook.com/groups/709755213803294/) - 10k members
