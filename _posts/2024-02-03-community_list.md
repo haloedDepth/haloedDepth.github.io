@@ -32,12 +32,12 @@ feature_image: "https://i.postimg.cc/VNWSMDNN/todo.webp"
 -   [Technology Investor Club: Artificial Intelligence, Data Science, Fintech, IoT, Robotics & Cloud AI](https://www.linkedin.com/groups/7036558/) - 970k members
 -   [Data Science Community (moderated)](https://www.linkedin.com/groups/3063585/) - 510k members
 -   [Software/Technology: AI, Marketing, Social Media, Startups, Blockchain, Human Resources & Metaverse](https://www.linkedin.com/groups/1976445/) - 2.9M members
--   [Developers, Engineers & Techies: Solidity, Rust, C++, C#, Python, Java, Javascript | Blockchain](https://www.linkedin.com/groups/2066905/) - 600k members
+-   [Developers, Engineers & Techies: Solidity, Rust, C++, C#, Python, Java, Javascript  Blockchain](https://www.linkedin.com/groups/2066905/) - 600k members
 -   [Analytics and Artificial Intelligence (AI) in Marketing and Retail](https://www.linkedin.com/groups/4371519/) - 330k members
 -   [Artificial Intelligence Investors Group: Robotics, Machine Learning, NLP, Computer Vision & IoT](https://www.linkedin.com/groups/4376214/) - 275k members
 -   [Artificial Intelligence  Deep Learning  Machine Learning](https://www.linkedin.com/groups/45655/) - 180k members
 -   [MARKETING: Artificial Intelligence Innovators, AI, ChatGPT, Bard, Bing, Copilot by SolutionPeople](https://www.linkedin.com/groups/54066/) - 1M members
--   [Information Technology: Developer, Engineer, Analyst, Technician, Scientist | Blockchain | Metaverse](https://www.linkedin.com/groups/2154029/) - 520k members
+-   [Information Technology: Developer, Engineer, Analyst, Technician, Scientist  Blockchain  Metaverse](https://www.linkedin.com/groups/2154029/) - 520k members
 -   [Software Development - Open Source, Linux, Cloud, AI/ML/DL](https://www.linkedin.com/groups/65688/) - 100k members
 -   [Open Source - Linux, Python, PHP, Node.js, MongoDB, Meteor.js, Flutter, Docker, Chromium, Android](https://www.linkedin.com/groups/43875/) - 150k members
 -   [Software Developer](https://www.linkedin.com/groups/1074487/) - 290k members
