@@ -2,7 +2,7 @@
 title: Community List
 categories:
 - List
-feature_image: "https://i.postimg.cc/VNWSMDNN/todo.webp"
+feature_image: "https://i.postimg.cc/bNc6Drrj/community-list.webp"
 ---
 
 # LinkedIn
