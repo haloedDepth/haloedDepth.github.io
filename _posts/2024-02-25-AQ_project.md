@@ -1,6 +1,6 @@
 ---
 title: Air Quality Project
-feature_image: "https://ibb.co/G7pWw5M"
+feature_image: "https://i.ibb.co/wygSHzQ/2024-02-27-205948-1917x457-scrot.png"
 aside: true
 ---
 
