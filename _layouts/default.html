@@ -47,11 +47,11 @@
 
   <body class="layout-{{ page.layout }}{% if page.title %}  {{ page.title | slugify }}{% endif %}">
     {% include site-icons.svg %}
-
-    {{ content }}
     <div class="cv-download"> 
       <a href="/assets/cv.pdf" class="button" download="my_cv">Download CV</a>
     </div> 
+    {{ content }}
+    
 
     {% if site.service_worker != false %}{% include site-sw.html %}{% endif %}
 
