@@ -1,3 +1,9 @@
+---
+title: Air Quality Project
+feature_image: "https://ibb.co/G7pWw5M"
+aside: true
+---
+
 **Section 1: Project Goal**
 
 **Investigating Seasonal and Daily Trends in PM2.5 and PM10 Pollution**
