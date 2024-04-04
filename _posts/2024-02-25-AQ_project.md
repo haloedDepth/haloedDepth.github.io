@@ -3,7 +3,7 @@ title: Air Quality Project
 feature_image: "https://i.ibb.co/wygSHzQ/2024-02-27-205948-1917x457-scrot.png"
 aside: true
 ---
-
+github link: [HERE](https://github.com/haloedDepth/Air-Quality-Analysis)
 **Section 1: Project Goal**
 
 **Investigating Seasonal and Daily Trends in PM2.5 and PM10 Pollution**
