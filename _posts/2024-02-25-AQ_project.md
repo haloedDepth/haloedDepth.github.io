@@ -101,7 +101,7 @@ Lima        | 10 million           | Coastal desert region of Peru  | UTC -5    
 
 **4.2 Code Implementation (`extract.py`)**
 ```
-[Include your Python code here]
+[link](https://github.com/haloedDepth/Air-Quality-Analysis/blob/main/scripts/extract.py)
 ```
 **4.3 Code Functionality**
 
@@ -144,7 +144,7 @@ Lima        | 10 million           | Coastal desert region of Peru  | UTC -5    
 
 **5.4 Code Implementation (`clean.py`)**
 
-[Include your Python code here]
+[link](https://github.com/haloedDepth/Air-Quality-Analysis/blob/main/scripts/clean.py)
 
 **5.5 Code Functionality**
 
@@ -161,7 +161,7 @@ Lima        | 10 million           | Coastal desert region of Peru  | UTC -5    
 
 **6.2 Table Creation and Data Loading (`load.py`)**
 
-[Include your Python code here]
+[link](https://github.com/haloedDepth/Air-Quality-Analysis/blob/main/scripts/load.py)
 
 **6.3 Code Functionality**
 
